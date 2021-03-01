@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: k8svolume-deployment
+  namespace: k8svolume
+  labels:
+    app: k8svolume-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: k8svolume-app
+  template:
+    metadata:
+      labels:
+        app: k8svolume-app
+    spec:
+      containers:
+      - name: k8svolume-container
+        image: khanasif1/k8s.volumes:v1.01
+        ports:
+        - containerPort: 8080
+        imagePullPolicy: Always  
+        volumeMounts:
+        - name: appsettings-volume
+          mountPath: /app/Settings
+        - name: secret-volume
+          mountPath: /app/secrets
+      volumes:
+      - name: appsettings-volume
+        configMap:
+          name: k8svolume-appsettings
+      - name: secret-volume
+        secret:
+          secretName: k8svolume-secret
