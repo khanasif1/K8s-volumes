@@ -41,7 +41,7 @@ namespace K8s.Volumes
         /// Get secrets from Kubernetes secrets
         /// </summary>
         /// <returns></returns>
-        [HttpGet("getsecrets")]
+        [HttpGet("getsecrets`   ")]
         public string GetSecrets()
         {
             //string secretValue = Environment.GetEnvironmentVariable("App-Secret");
