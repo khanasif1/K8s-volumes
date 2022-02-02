@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\web",
+    "\\web\\k8s",
+    "\\web\\K8s.Volumes",
+    "\\web\\K8s.Volumes\\Controllers"
+  ],
+  "SelectedNode": "\\web\\run.ps1",
+  "PreviewInSolutionExplorer": false
+}

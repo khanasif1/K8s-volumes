@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R6SWMiFeVegNuDDrC3xdCIvRNQrs7QzaL+XUfbJJyRL10dI31gzqPffFnzUM9gYYGfcgZxcmVq3cAnxvdaDI4Q==",
+  "dgSpecHash": "hWali76jY/beBZ17JveY1Rk2KFTFn26wEaOi56JO6rLtp6G051cnw6m1S0trdFa1zztruiiIrnPdwh4XguLHvg==",
   "success": true,
   "projectFilePath": "C:\\_dev\\_github\\K8s-volumes\\web\\K8s.Volumes\\K8s.Volumes.csproj",
   "expectedPackageFiles": [

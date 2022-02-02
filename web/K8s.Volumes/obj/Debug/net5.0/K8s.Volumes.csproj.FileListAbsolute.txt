@@ -40,7 +40,6 @@ C:\_dev\_github\K8s-volumes\web\K8s.Volumes\bin\Debug\net5.0\Microsoft.OpenApi.d
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.csprojAssemblyReference.cache
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.GeneratedMSBuildEditorConfig.editorconfig
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.AssemblyInfoInputs.cache
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.AssemblyInfo.cs
@@ -48,7 +47,6 @@ C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.csproj.
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.MvcApplicationPartsAssemblyInfo.cs
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.MvcApplicationPartsAssemblyInfo.cache
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\staticwebassets\K8s.Volumes.StaticWebAssets.Manifest.cache
-C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\staticwebassets\K8s.Volumes.StaticWebAssets.xml
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\scopedcss\bundle\K8s.Volumes.styles.css
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.RazorTargetAssemblyInfo.cache
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.csproj.CopyComplete
@@ -56,3 +54,4 @@ C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.dll
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\ref\K8s.Volumes.dll
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.pdb
 C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.genruntimeconfig.cache
+C:\_dev\_github\K8s-volumes\web\K8s.Volumes\obj\Debug\net5.0\K8s.Volumes.csproj.AssemblyReference.cache
